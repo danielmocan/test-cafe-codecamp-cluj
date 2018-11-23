@@ -1,0 +1,15 @@
+{
+  "name": "testcafe-codecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome src/index.js",
+    "remote": "testcafe remote src/index.js --qr-code"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^0.23.0"
+  }
+}
