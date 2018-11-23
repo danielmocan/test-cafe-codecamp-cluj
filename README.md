@@ -1,2 +1,2 @@
-# test-cafe-codecamp-cluj
-Testcafe
+# End-to-End Testing with TestCafe at Codecamp Cluj
+
