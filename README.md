@@ -2,7 +2,7 @@
 
 This is the demo repo for my talk at Codecamp Cluj ( November 23, 2018 )
 
-## Slides: https://slides.com/danielmocan/testcafe-codecamp-cluj-2018
+### Slides: https://slides.com/danielmocan/testcafe-codecamp-cluj-2018
 
 
 
