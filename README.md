@@ -29,3 +29,10 @@ Clone the repository using [git][git]:
 To run the test just run:
 
     npm test
+
+### Resources
+
+*  [TestCafe Documentation](http://devexpress.github.io/testcafe/documentation/test-api/)
+*  [Selenium or TestCafe](https://offbeattesting.com/2018/02/02/selenium-or-testcafe/)
+*  [Flaky Tests](https://blogs.dropbox.com/tech/2018/05/how-were-winning-the-battle-against-flaky-tests/)
+*  [Evaluating Cypress and TestCafe for e2e](https://medium.com/the-node-js-collection/evaluating-cypress-and-testcafe-for-end-to-end-testing-b500a54d5a66)
