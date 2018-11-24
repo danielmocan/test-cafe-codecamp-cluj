@@ -10,13 +10,11 @@ This is the demo repo for my talk at Codecamp Cluj ( November 23, 2018 )
 To get you started you can simply clone the repository and install the dependencies:
 
 ### Prerequisites
-You need git to clone the repository. You can get git from
-[http://git-scm.com/](http://git-scm.com/).
 
 You must have Node 6+  and its package manager (npm) installed.
 
 ### Clone project
-Clone the repository using [git][git]:
+Clone the repository using git:
 
     git clone https://github.com/danielmocan/test-cafe-codecamp-cluj.git
 
@@ -24,12 +22,17 @@ Clone the repository using [git][git]:
 
     npm install
 
-### Run the Application
+### Run the tests
 
 To run the test just run:
 
     npm test
+    
+### Run the tests on a device
+You have to be in the same network with the device that you initialize the test from
 
+    `npm run remote`
+    
 ### Resources
 
 *  [TestCafe Documentation](http://devexpress.github.io/testcafe/documentation/test-api/)
