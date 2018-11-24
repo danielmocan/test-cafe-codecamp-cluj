@@ -18,7 +18,7 @@ You must have Node 6+  and its package manager (npm) installed.
 ### Clone project
 Clone the repository using [git][git]:
 
-    git clone "path from git"
+    git clone https://github.com/danielmocan/test-cafe-codecamp-cluj.git
 
 ### Install project dependencies ( TestCafe )
 
