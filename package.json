@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "testcafe chrome src/index.js",
-    "remote": "testcafe remote src/index.js --qr-code"
+    "remote": "testcafe remote src/index.js --qr-code",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "^0.23.0"
-  }
+    "testcafe": "^0.23.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
